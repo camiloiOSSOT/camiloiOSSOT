@@ -10,3 +10,5 @@ jobs:
     steps:
       - name: Badges - Readme
         uses: pemtajo/badge-readme@2.4.0
+        with:       
+          CREDLY_USER: camilo-plaza
