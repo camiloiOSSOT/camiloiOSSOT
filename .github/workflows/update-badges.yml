@@ -10,5 +10,6 @@ jobs:
     steps:
       - name: Badges - Readme
         uses: pemtajo/badge-readme@2.4.0
-        with:       
+        with:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
           CREDLY_USER: camilo-plaza
