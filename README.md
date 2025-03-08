@@ -3,10 +3,10 @@
 - 🌱 I’m currently learning SwiftUI
 - ⚡ Fun fact: Running, Gran Turimo game and wine's world
 
+<a href="https://www.buymeacoffee.com/cplazaiOSSOT" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
 <!--START_SECTION:badges-->
 <!--END_SECTION:badges-->
-
-<a href="https://www.buymeacoffee.com/cplazaiOSSOT" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 <!--- 
 - 💞️ I’m looking to collaborate on ...
